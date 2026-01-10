@@ -13,13 +13,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enzoobarros/enzoobarros/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=su4oivm51hxlx3n5sd98nqtm1&cover_image=true&theme=dark&show_offline=true" />
-</div>
-
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
