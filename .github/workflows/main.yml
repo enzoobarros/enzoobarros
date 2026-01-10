@@ -9,18 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Pacman graph
+      - name: Generate Pacman contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: enzoobarros
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
+          theme: pacman
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
