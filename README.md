@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudando desenvolvimento Web com foco em **Angular**.
-- 💻 Atualmente explorando lógica de programação com **C++**.
-- 🌱 Buscando aprender sempre novas tecnologias e melhores práticas de código.
+* 🎓 Estudando desenvolvimento Web com foco em **Angular**.
+* 💻 Atualmente explorando lógica de programação com **C++**.
+* 🌱 Buscando aprender sempre novas tecnologias e melhores práticas de código.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block">
@@ -24,14 +24,9 @@
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_SEU_INSTAGRAM_AQUI)
-
----
-
-### 📊 GitHub Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzoobarros/enzoobarros/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzoobarros/enzoobarros/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzoobarros/enzoobarros/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
