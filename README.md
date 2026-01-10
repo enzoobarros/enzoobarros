@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 Estudando desenvolvimento Web com foco em **Angular**.
-* 💻 Atualmente explorando lógica de programação com **C++**.
-* 🌱 Buscando aprender sempre novas tecnologias e melhores práticas de código.
+- 🎓 Estudando desenvolvimento Web com foco em **Angular**.
+- 💻 Atualmente explorando lógica de programação com **C++**.
+- 🌱 Buscando aprender sempre novas tecnologias e melhores práticas de código.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block">
@@ -25,7 +25,13 @@
 
 ### 📫 Conecte-se comigo
 <div style="display: inline_block">
-  <a href="SUO_LINK_DO_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="SEU_LINK_DO_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 🐍 Snake Game
+<div align="center">
+  <img src="https://raw.githubusercontent.com/enzoobarros/enzoobarros/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
