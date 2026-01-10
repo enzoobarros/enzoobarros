@@ -16,6 +16,11 @@
 
 ###
 
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=https://open.spotify.com/user/su4oivm51hxlx3n5sd98nqtm1&cover_image=true&theme=dark&show_offline=true)](https://open.spotify.com/user/https://open.spotify.com/user/su4oivm51hxlx3n5sd98nqtm1)
+
+
+###
+
 <div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
