@@ -17,7 +17,7 @@
 
 
 <img align="right" src="assets/GUTS_02_github.gif" width="150" style="margin-top: -50px;" />
-<br> <br> <br> <br>
+<br> <br> <br> <br> <br>
 
 
 <div style="display: inline_block"><br>
