@@ -16,7 +16,7 @@
 
 
 
-<img align="right" src="assets/GUTS_02_github.gif" width="150" style="margin-top: -50px;" />
+<img align="right" src="assets/kokou.jpg" width="150" style="margin-top: -50px;" />
 <br> <br> <br> <br> <br>
 
 
